@@ -1,0 +1,27 @@
+header{
+    background-color: #F0D9FB;
+}
+
+.navbar{
+    background-color: #CBAED9;
+    text-decoration: none;
+}
+
+main{
+    background-color:bisque;
+}
+
+section h1{
+    background-color: #EBF1D1;
+    font-size: 12px;
+}
+
+.section .linkTienda{
+    color: #0E1EB6;
+    text-decoration: underline;
+}
+
+footer{
+    text-align: right;
+    font-size: 20px;
+}
